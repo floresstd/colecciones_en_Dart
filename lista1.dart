@@ -1,5 +1,6 @@
 void main() {
   //lista tipo entero con 3 elementos
+  print("Jesús Daniel Flores Rodríguez 22308051281186 grupo 6°J");
   List<int> numeros = [10, 20, 30];
   print("Lista de numeros enteros: ");
   print(numeros);
